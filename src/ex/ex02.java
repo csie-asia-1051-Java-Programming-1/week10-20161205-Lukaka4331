@@ -3,6 +3,7 @@ import java.util.Scanner;
 /*
  * Topic: 輸入所使用的度數，換算夏月及非夏月之電費金額。
  * Date: 2016/12/05
+ * Author: 105021044 鐘岑哲
  */
 
 public class ex02 {
